@@ -3,7 +3,7 @@
 Group 11
 
 <b>Team members and email addresses: </b>
-- Ramana Manivannan: 
+- Ramana Manivannan: RAM375@pitt.edu
 - Hannah Kuklinski: HAK199@pitt.edu
 - Sherry Ren: SHR159@pitt.edu
 
